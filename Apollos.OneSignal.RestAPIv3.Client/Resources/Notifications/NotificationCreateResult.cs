@@ -18,5 +18,11 @@ namespace OneSignal.RestAPIv3.Client.Resources.Notifications
         /// </summary>
         [DeserializeAs(Name = "id")]
         public string Id { get; set; }
+
+        /// <summary>
+        /// Returns an error.
+        /// </summary>
+        [DeserializeAs( Name = "error" )]
+        public string Error { get; set; }
     }
 }

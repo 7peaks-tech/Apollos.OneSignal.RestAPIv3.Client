@@ -16,13 +16,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		..\README.md = ..\README.md
 	EndProjectSection
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OneSignal.RestAPIv3.Client", "OneSignal.RestAPIv3.Client\OneSignal.RestAPIv3.Client.csproj", "{3A12EBF8-7A29-412F-92FC-B9362FC91431}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Apollos.OneSignal.RestAPIv3.Client", "Apollos.OneSignal.RestAPIv3.Client\Apollos.OneSignal.RestAPIv3.Client.csproj", "{FBCCCA9B-76A3-4D31-A2F2-04CE193DF48B}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OneSignal.RestAPIv3.Client.Sample.ConsoleApp.NetCore", "OneSignal.RestAPIv3.Client.Sample.ConsoleApp.NetCore\OneSignal.RestAPIv3.Client.Sample.ConsoleApp.NetCore.csproj", "{B82B4AF5-1FDE-4E6C-9334-A819672554BC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Apollos.OneSignal.RestAPIv3.Client.Sample.ConsoleApp.NetCore", "Apollos.OneSignal.RestAPIv3.Client.Sample.ConsoleApp.NetCore\Apollos.OneSignal.RestAPIv3.Client.Sample.ConsoleApp.NetCore.csproj", "{8243FF0F-97D5-4D85-83AD-E43949365782}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OneSignal.RestAPIv3.Client.Sample.ConsoleApp.NetFramework452", "OneSignal.RestAPIv3.Client.Sample.ConsoleApp.NetFramework452\OneSignal.RestAPIv3.Client.Sample.ConsoleApp.NetFramework452.csproj", "{105D00E9-9B4C-4B8D-B629-A36CFACF527C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Apollos.OneSignal.RestAPIv3.Client.Sample.ConsoleApp.NetFramework452", "Apollos.OneSignal.RestAPIv3.Client.Sample.ConsoleApp.NetFramework452\Apollos.OneSignal.RestAPIv3.Client.Sample.ConsoleApp.NetFramework452.csproj", "{52BCEEAF-3DC2-4E09-9818-0A75A570F397}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OneSignal.RestAPIv3.Client.Tests", "OneSignal.RestAPIv3.Client.Tests\OneSignal.RestAPIv3.Client.Tests.csproj", "{E3E97B56-0782-4230-BA81-F0703E67FC4F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Apollos.OneSignal.RestAPIv3.Client.Tests", "Apollos.OneSignal.RestAPIv3.Client.Tests\Apollos.OneSignal.RestAPIv3.Client.Tests.csproj", "{E3E97B56-0782-4230-BA81-F0703E67FC4F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -30,18 +30,18 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{3A12EBF8-7A29-412F-92FC-B9362FC91431}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3A12EBF8-7A29-412F-92FC-B9362FC91431}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3A12EBF8-7A29-412F-92FC-B9362FC91431}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3A12EBF8-7A29-412F-92FC-B9362FC91431}.Release|Any CPU.Build.0 = Release|Any CPU
-		{B82B4AF5-1FDE-4E6C-9334-A819672554BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B82B4AF5-1FDE-4E6C-9334-A819672554BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B82B4AF5-1FDE-4E6C-9334-A819672554BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B82B4AF5-1FDE-4E6C-9334-A819672554BC}.Release|Any CPU.Build.0 = Release|Any CPU
-		{105D00E9-9B4C-4B8D-B629-A36CFACF527C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{105D00E9-9B4C-4B8D-B629-A36CFACF527C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{105D00E9-9B4C-4B8D-B629-A36CFACF527C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{105D00E9-9B4C-4B8D-B629-A36CFACF527C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBCCCA9B-76A3-4D31-A2F2-04CE193DF48B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBCCCA9B-76A3-4D31-A2F2-04CE193DF48B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBCCCA9B-76A3-4D31-A2F2-04CE193DF48B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBCCCA9B-76A3-4D31-A2F2-04CE193DF48B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8243FF0F-97D5-4D85-83AD-E43949365782}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8243FF0F-97D5-4D85-83AD-E43949365782}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8243FF0F-97D5-4D85-83AD-E43949365782}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8243FF0F-97D5-4D85-83AD-E43949365782}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52BCEEAF-3DC2-4E09-9818-0A75A570F397}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52BCEEAF-3DC2-4E09-9818-0A75A570F397}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52BCEEAF-3DC2-4E09-9818-0A75A570F397}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52BCEEAF-3DC2-4E09-9818-0A75A570F397}.Release|Any CPU.Build.0 = Release|Any CPU
 		{E3E97B56-0782-4230-BA81-F0703E67FC4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{E3E97B56-0782-4230-BA81-F0703E67FC4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E3E97B56-0782-4230-BA81-F0703E67FC4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
