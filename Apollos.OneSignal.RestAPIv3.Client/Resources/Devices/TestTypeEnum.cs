@@ -1,4 +1,4 @@
-﻿namespace OneSignal.RestAPIv3.Client.Resources.Devices
+﻿namespace Apollos.OneSignal.RestAPIv3.Client.Resources.Devices
 {
     /// <summary>
     /// Test type enumeration.

@@ -1,6 +1,6 @@
 ﻿using RestSharp.Deserializers;
 
-namespace OneSignal.RestAPIv3.Client.Resources.Devices
+namespace Apollos.OneSignal.RestAPIv3.Client.Resources.Devices
 {
     /// <summary>
     /// Class used to keep result of device add operation.

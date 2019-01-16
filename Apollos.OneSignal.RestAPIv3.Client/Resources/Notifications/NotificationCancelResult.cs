@@ -1,7 +1,7 @@
 ﻿using Newtonsoft.Json;
 using RestSharp.Deserializers;
 
-namespace OneSignal.RestAPIv3.Client.Resources.Notifications
+namespace Apollos.OneSignal.RestAPIv3.Client.Resources.Notifications
 {
     /// <summary>
     /// Result of notification cancel operation.

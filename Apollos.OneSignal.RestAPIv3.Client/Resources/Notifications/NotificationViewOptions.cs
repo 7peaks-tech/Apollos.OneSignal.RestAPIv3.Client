@@ -3,7 +3,7 @@ using System;
 using System.Collections.Generic;
 using Newtonsoft.Json.Converters;
 
-namespace OneSignal.RestAPIv3.Client.Resources.Notifications
+namespace Apollos.OneSignal.RestAPIv3.Client.Resources.Notifications
 {
     /// <summary>
     /// Get delivery and convert report about single notification.

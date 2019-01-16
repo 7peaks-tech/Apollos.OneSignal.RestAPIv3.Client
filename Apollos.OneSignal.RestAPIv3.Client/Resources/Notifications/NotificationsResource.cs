@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Net;
-using OneSignal.RestAPIv3.Client.Serializers;
+using Apollos.OneSignal.RestAPIv3.Client.Serializers;
 using RestSharp;
 
-namespace OneSignal.RestAPIv3.Client.Resources.Notifications
+namespace Apollos.OneSignal.RestAPIv3.Client.Resources.Notifications
 {
     /// <summary>
     /// Class used to define resources needed for client to manage notifications.

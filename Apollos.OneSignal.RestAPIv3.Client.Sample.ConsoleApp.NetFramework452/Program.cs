@@ -1,10 +1,10 @@
 ﻿using Newtonsoft.Json;
-using OneSignal.RestAPIv3.Client.Resources;
-using OneSignal.RestAPIv3.Client.Resources.Notifications;
+using Apollos.OneSignal.RestAPIv3.Client.Resources;
+using Apollos.OneSignal.RestAPIv3.Client.Resources.Notifications;
 using System;
 using System.Collections.Generic;
 
-namespace OneSignal.RestAPIv3.Client.Sample.ConsoleApp.NetFramework452
+namespace Apollos.OneSignal.RestAPIv3.Client.Sample.ConsoleApp.NetFramework452
 {
     class Program
     {
@@ -18,7 +18,7 @@ namespace OneSignal.RestAPIv3.Client.Sample.ConsoleApp.NetFramework452
                 IncludePlayerIds = new List<string>()
                 {
                     "00000000-0000-0000-0000-000000000000" // Use your playerId
-                }
+                },
                 // ... OR ...
                 IncludeExternalUserIds = new List<string>()
                 {

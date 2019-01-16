@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\OneSignal.RestAPIv3.Client\Apollos.OneSignal.RestAPIv3.Client.csproj" />
+    <ProjectReference Include="..\Apollos.OneSignal.RestAPIv3.Client\Apollos.OneSignal.RestAPIv3.Client.csproj" />
   </ItemGroup>
 
 </Project>

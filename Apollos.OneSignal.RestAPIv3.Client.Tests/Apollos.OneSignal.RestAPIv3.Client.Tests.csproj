@@ -59,7 +59,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\OneSignal.RestAPIv3.Client\Apollos.OneSignal.RestAPIv3.Client.csproj">
+    <ProjectReference Include="..\Apollos.OneSignal.RestAPIv3.Client\Apollos.OneSignal.RestAPIv3.Client.csproj">
       <Project>{3a12ebf8-7a29-412f-92fc-b9362fc91431}</Project>
       <Name>Apollos.OneSignal.RestAPIv3.Client</Name>
     </ProjectReference>

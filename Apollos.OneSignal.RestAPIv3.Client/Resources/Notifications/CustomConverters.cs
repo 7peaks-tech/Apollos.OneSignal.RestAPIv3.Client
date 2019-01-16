@@ -6,7 +6,7 @@ using Newtonsoft.Json;
 using Newtonsoft.Json.Converters;
 using Newtonsoft.Json.Linq;
 
-namespace OneSignal.RestAPIv3.Client.Resources.Notifications
+namespace Apollos.OneSignal.RestAPIv3.Client.Resources.Notifications
 {
     #region CustomDateTimeConverter
     /// <summary>

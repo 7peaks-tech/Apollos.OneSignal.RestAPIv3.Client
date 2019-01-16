@@ -1,7 +1,7 @@
-﻿using OneSignal.RestAPIv3.Client.Resources.Notifications;
-using OneSignal.RestAPIv3.Client.Resources.Devices;
+﻿using Apollos.OneSignal.RestAPIv3.Client.Resources.Notifications;
+using Apollos.OneSignal.RestAPIv3.Client.Resources.Devices;
 
-namespace OneSignal.RestAPIv3.Client
+namespace Apollos.OneSignal.RestAPIv3.Client
 {
     /// <summary>
     /// OneSignal client interface.

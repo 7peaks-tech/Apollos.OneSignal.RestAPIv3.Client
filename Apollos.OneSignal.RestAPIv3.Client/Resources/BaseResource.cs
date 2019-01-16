@@ -1,6 +1,6 @@
 ﻿using RestSharp;
 
-namespace OneSignal.RestAPIv3.Client.Resources
+namespace Apollos.OneSignal.RestAPIv3.Client.Resources
 {
     /// <summary>
     /// Abstract class which helps easier implementation of new client resources.

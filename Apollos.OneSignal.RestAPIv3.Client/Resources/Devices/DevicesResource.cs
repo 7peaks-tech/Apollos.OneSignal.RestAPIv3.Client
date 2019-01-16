@@ -1,8 +1,8 @@
 ﻿using System;
-using OneSignal.RestAPIv3.Client.Serializers;
+using Apollos.OneSignal.RestAPIv3.Client.Serializers;
 using RestSharp;
 
-namespace OneSignal.RestAPIv3.Client.Resources.Devices
+namespace Apollos.OneSignal.RestAPIv3.Client.Resources.Devices
 {
     /// <summary>
     /// Implementation of BaseResource, used to help client add or edit device.

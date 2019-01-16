@@ -1,6 +1,6 @@
 ﻿using Newtonsoft.Json;
 
-namespace OneSignal.RestAPIv3.Client.Resources.Notifications
+namespace Apollos.OneSignal.RestAPIv3.Client.Resources.Notifications
 {
     /// <summary>
     /// API Documentation: https://documentation.onesignal.com/docs/notifications-cancel-notification

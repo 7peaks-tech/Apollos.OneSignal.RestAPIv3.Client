@@ -2,7 +2,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace OneSignal.RestAPIv3.Client.Resources.Devices
+namespace Apollos.OneSignal.RestAPIv3.Client.Resources.Devices
 {
     /// <summary>
     /// Options for editing existing device defined in OneSignal app.

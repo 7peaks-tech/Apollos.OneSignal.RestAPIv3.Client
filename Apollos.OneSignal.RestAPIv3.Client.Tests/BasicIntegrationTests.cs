@@ -1,10 +1,10 @@
 ﻿using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System.Collections.Generic;
-using OneSignal.RestAPIv3.Client.Resources.Notifications;
-using OneSignal.RestAPIv3.Client.Resources;
+using Apollos.OneSignal.RestAPIv3.Client.Resources.Notifications;
+using Apollos.OneSignal.RestAPIv3.Client.Resources;
 
-namespace OneSignal.RestAPIv3.Client.Tests
+namespace Apollos.OneSignal.RestAPIv3.Client.Tests
 {
     [TestClass]
     public class BasicIntegrationTests
@@ -20,7 +20,7 @@ namespace OneSignal.RestAPIv3.Client.Tests
                 IncludePlayerIds = new List<string>()
                 {
                     "00000000-0000-0000-0000-000000000000" // Use your playerId
-                }
+                },
                 // ... OR ...
                 IncludeExternalUserIds = new List<string>()
                 {

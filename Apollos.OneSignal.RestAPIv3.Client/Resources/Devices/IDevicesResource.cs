@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace OneSignal.RestAPIv3.Client.Resources.Devices
+namespace Apollos.OneSignal.RestAPIv3.Client.Resources.Devices
 {
     /// <summary>
     /// Interface used to unify creation of classes used to help client add or edit device.
