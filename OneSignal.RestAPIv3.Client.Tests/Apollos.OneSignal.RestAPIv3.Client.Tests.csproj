@@ -7,8 +7,8 @@
     <ProjectGuid>{E3E97B56-0782-4230-BA81-F0703E67FC4F}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>OneSignal.CSharp.SDK.Tests</RootNamespace>
-    <AssemblyName>OneSignal.CSharp.SDK.Tests</AssemblyName>
+    <RootNamespace>Apollos.OneSignal.RestAPIv3.Client.Tests</RootNamespace>
+    <AssemblyName>Apollos.OneSignal.RestAPIv3.Client.Tests</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{3AC096D0-A1C2-E12C-1390-A8335801FDAB};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
@@ -59,9 +59,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\OneSignal.RestAPIv3.Client\OneSignal.RestAPIv3.Client.csproj">
+    <ProjectReference Include="..\OneSignal.RestAPIv3.Client\Apollos.OneSignal.RestAPIv3.Client.csproj">
       <Project>{3a12ebf8-7a29-412f-92fc-b9362fc91431}</Project>
-      <Name>OneSignal.RestAPIv3.Client</Name>
+      <Name>Apollos.OneSignal.RestAPIv3.Client</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>

@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\OneSignal.RestAPIv3.Client\OneSignal.RestAPIv3.Client.csproj" />
+    <ProjectReference Include="..\OneSignal.RestAPIv3.Client\Apollos.OneSignal.RestAPIv3.Client.csproj" />
   </ItemGroup>
 
 </Project>
