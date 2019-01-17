@@ -1,5 +1,3 @@
-![Apollos Project Logo](https://avatars1.githubusercontent.com/u/39307172?s=400&u=268b342b7d01cd65ae743dc0fd8dd1bf27ba13fc&v=4) +
-![OneSignal Logo](https://onesignal.com/assets/common/logo_onesignal_color.png)
 # Apollos.OneSignal.RestApiv3.Client
 A General purpose REST Api Client written in C# language for the OneSignal API v3
 
